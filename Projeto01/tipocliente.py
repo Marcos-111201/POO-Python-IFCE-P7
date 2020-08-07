@@ -14,5 +14,3 @@ if __name__ == '__main__':
     for tipo in (TipoCliente):
         print(type(tipo))
         print(tipo) 
-    
-  
